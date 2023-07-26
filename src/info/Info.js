@@ -1,4 +1,4 @@
-import self from "../img/self.png"
+import self from "../img/imageimageself-removebg-preview.png"
 import toolsie from "../img/toolsie.png"
 import StockiePYY from "../img/StockiePYY.png"
 
