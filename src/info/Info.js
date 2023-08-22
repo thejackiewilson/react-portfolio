@@ -70,25 +70,25 @@ export const info = {
     bio: "As an MBA scholar with a passion for project management and strong business acumen, I bring expertise in computer skills including proficiency in Excel, PowerPoint, and various computer languages such as Python + JavaScript, alongside my love for data analysis to the professional arena. Eager to apply knowledge and skills to drive success in a fast-paced and challenging environment. My background in business and my ability to understand the big picture helps me make well-informed decisions and implement successful strategies. Open to new opportunities in various aspects of business & technology. Excited to see how we can work together! ",
     skills:
         {
-            proficientWith: ['JavaScript', 'Python', 'MS PowerBI', 'MS Excel', 'React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Figma'],
-            exposedTo: ['NodeJS', 'Python', 'MS Office MS Excel', 'ChatGPT', 'GPT-4']
+            proficientWith: ['MS PowerBI', 'MS Excel', 'MS SharePoint', 'MS Access', 'MS PowerPoint', 'MiniTab', 'Linux (Arch, Kali, Mint)', 'JavaScript', 'Python', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Figma'],
+            exposedTo: ['NodeJS', 'C++', 'C#', 'HTMX', 'PugScript', 'SCSS', 'SalesForce', 'WebGPT', 'GPT-3', 'GPT-3.5', 'GPT-4']
         }
     ,
     hobbies: [
         {
-            label: 'finance',
+            label: 'stocks, options, bonds',
             emoji: '🏦'
         },
         {
-            label: 'automotive',
+            label: 'automotive trends research',
             emoji: '🚘'
         },
         {
-            label: 'collecting sports cards',
+            label: 'collecting sports cards - NBA, NFL, NHL, MLB',
             emoji: '🏆'
         },
         {
-            label: 'technology',
+            label: 'technology trend discussions',
             emoji: '📱'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
